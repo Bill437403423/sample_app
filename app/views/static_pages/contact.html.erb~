@@ -1,0 +1,6 @@
+<% provide(:title), 'contact') %>
+<!DOCTYPE html>
+<html>
+<h1>contact</h1>
+<p>sjfkladjf;lsjfa;lkdfj</p>
+</html>
