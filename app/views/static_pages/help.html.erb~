@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <h1>Help</h1>
+<title>ruby on rails|<%= yield(:title) %></title>
 <p>
 asdfasfasf asfasfasfadsfasf
 <a href="www.baidu.com"></a>

@@ -1,0 +1,9 @@
+<% provide(:title, 'about') %>
+<!DOCTYPE html>
+<html>
+<title>ruby on rails|<%= yield(:title) %></title>
+<h1>About Us</h1>
+<p>ajslkfjalfjsdlfja;lsfj
+<a href="google.com"></a>
+</p>
+</html>
